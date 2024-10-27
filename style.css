@@ -115,7 +115,7 @@ nav {
 
 
 .hero {
-  background: url('cover1.jpeg') no-repeat center center/cover; /* Ajoutez votre image de fond ici */
+  background: url('https://raw.githubusercontent.com/digitcom-ci/digitcom.github.io/refs/heads/main/cover1.jpeg') no-repeat center center/cover; /* Ajoutez votre image de fond ici */
   height: 400px;
   display: flex;
   justify-content: center;
